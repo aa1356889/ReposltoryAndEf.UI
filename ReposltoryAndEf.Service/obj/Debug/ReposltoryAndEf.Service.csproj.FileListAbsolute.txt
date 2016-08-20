@@ -1,0 +1,14 @@
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.Service.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.Service.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\obj\Debug\ReposltoryAndEf.Service.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\obj\Debug\ReposltoryAndEf.Service.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.Common.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.Domian.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.IService.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\Newtonsoft.Json.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.Common.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.Domian.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\ReposltoryAndEf.IService.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\obj\Debug\ReposltoryAndEf.Service.csprojResolveAssemblyReference.cache
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\EntityFramework.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Service\bin\Debug\EntityFramework.xml

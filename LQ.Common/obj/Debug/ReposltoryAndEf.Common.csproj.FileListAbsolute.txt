@@ -1,0 +1,5 @@
+G:\CODE\ReposltoryAndEf.UI\LQ.Common\bin\Debug\ReposltoryAndEf.Common.dll
+G:\CODE\ReposltoryAndEf.UI\LQ.Common\bin\Debug\ReposltoryAndEf.Common.pdb
+G:\CODE\ReposltoryAndEf.UI\LQ.Common\bin\Debug\Newtonsoft.Json.dll
+G:\CODE\ReposltoryAndEf.UI\LQ.Common\obj\Debug\ReposltoryAndEf.Common.dll
+G:\CODE\ReposltoryAndEf.UI\LQ.Common\obj\Debug\ReposltoryAndEf.Common.pdb

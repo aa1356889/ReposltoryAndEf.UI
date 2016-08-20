@@ -1,0 +1,117 @@
+﻿@model IEnumerable<ReposltoryAndEf.Domian.Sys_User>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NAME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ACCOUNT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PASSWORD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ISCANLOGIN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SHOWORDER1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SHOWORDER2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PINYIN1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PINYIN2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FACE_IMG)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LEVELS)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DPTID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CREATEPER)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CREATEDATE)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UPDATEUSER)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UPDATEDATE)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NAME)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ACCOUNT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PASSWORD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ISCANLOGIN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SHOWORDER1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SHOWORDER2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PINYIN1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PINYIN2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FACE_IMG)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LEVELS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DPTID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CREATEPER)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CREATEDATE)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UPDATEUSER)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UPDATEDATE)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

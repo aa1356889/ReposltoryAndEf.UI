@@ -1,0 +1,16 @@
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\ReposltoryAndEf.Domian.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\ReposltoryAndEf.Domian.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\ReposltoryAndEf.Common.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\Newtonsoft.Json.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\ReposltoryAndEf.Common.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\obj\Debug\ReposltoryAndEf.Domian.csprojResolveAssemblyReference.cache
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\obj\Debug\ReposltoryAndEf.Domian.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\obj\Debug\ReposltoryAndEf.Domian.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\ReposltoryAndEf.Domian.dll.config
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\EntityFramework.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\EntityFramework.SqlServer.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\EntityFramework.xml
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\bin\Debug\EntityFramework.SqlServer.xml
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\obj\Debug\ReposltoryAndEf.Domian.Migrations.InitialCreate.resources
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\obj\Debug\ReposltoryAndEf.Domian.csproj.GenerateResource.Cache
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.Domian\obj\Debug\ReposltoryAndEf.Domian.Migrations.sys_User.resources

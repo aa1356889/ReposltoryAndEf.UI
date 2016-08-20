@@ -1,0 +1,4 @@
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.IService\bin\Debug\ReposltoryAndEf.IService.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.IService\bin\Debug\ReposltoryAndEf.IService.pdb
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.IService\obj\Debug\ReposltoryAndEf.IService.dll
+G:\CODE\ReposltoryAndEf.UI\ReposltoryAndEf.IService\obj\Debug\ReposltoryAndEf.IService.pdb
